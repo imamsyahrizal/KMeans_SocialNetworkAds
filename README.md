@@ -3,7 +3,7 @@
 # Tugas Kecerdasan Buatan 2021
 # Klasterisasi data Social Network Ads menggunakana algoritma KMeans Clustering
 
-# Imam Syahrizal<br>18/424967/TK/46662
+# Imam Syahrizal<br>
 
 Social Netorks Ads berisi data pembelian produk atau tidak berdasarkan Jenis Kelamin, Umur, dan Perkiraan Pendapatan  
 Data ini dapat dijadikan dataset klasifikasi dan juga klasterisasi karena juga terdapat groundtruth seorang beli atau tidak. Tapi dalam tugas ini data ini akan dijadikan data untuk pembelajaran tanpa bimbingan (Unsupervised Learning) sehingga data beli atau tidak diabaikan.  
